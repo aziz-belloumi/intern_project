@@ -2,7 +2,7 @@
 
 ## Project Title & Description
 
-This project appears to be a mobile application built with Flutter, potentially related to real estate ("immobilier" in French). It incorporates features like user authentication, property details, mapping, and chat functionality. The project uses a variety of assets including images, icons, and 3D models.
+This project is a mobile application built with Flutter, potentially related to real estate ("immobilier" in French). It incorporates features like user authentication, property details, mapping, and chat functionality. The project uses a variety of assets including images, icons, and 3D models.
 
 ## Key Features & Benefits
 
